@@ -18,8 +18,8 @@ android {
         }
 
         debug {
-            buildConfigField "String", "SUBSCRIBE_KEY",  "\"sub-c-91f79b16-6c26-11e5-bcab-02ee2ddab7fe\""
-            buildConfigField "String", "PUBLISH_KEY",  "\"pub-c-970872ae-ddda-4daf-a20c-7229db4039ba\""
+            buildConfigField "String", "SUBSCRIBE_KEY",  "\"sub-c-c2c354fa-169a-11e6-8bc8-0619f8945a4f\""
+            buildConfigField "String", "PUBLISH_KEY",  "\"pub-c-86c144be-5fe5-4e2d-9c66-e88cd772c1d3\""
             buildConfigField "String", "GCM_PROJECT_ID",  "\"347849282940\""
         }
     }
